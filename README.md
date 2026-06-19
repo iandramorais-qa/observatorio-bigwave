@@ -25,5 +25,5 @@ Os dados, fichas de testes e o processamento estatístico desta amostragem foram
 
 ## 📬 Conecte-se comigo!
 *   **LinkedIn:** [[linkedin.com/in/iandra-morais](https://www.linkedin.com/in/iandra-morais/)]
-*   **GitHub:** [github.com/iandramorais-qa]
+*   **GitHub:** [[github.com/iandramorais-qa]](https://github.com/iandramorais-qa)
 *    **Email:** [iandramorais.gaia@gmail.com]
