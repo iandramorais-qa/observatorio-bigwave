@@ -1,29 +1,29 @@
-# 🌐 Observatório Digital Portugal — Auditoria de Processos & Usabilidade B2B
+# 🌐 Digital Observatory Portugal — B2B Process Auditing & Usability Testing Framework
 
-## 🚀 Sobre o Projeto
-O **Observatório Digital Portugal** é um framework de auditoria digital e testes funcionais caixa preta (Black-box Testing) concebido de raiz para avaliar a maturidade tecnológica e operacional de Pequenas e Médias Empresas (PMEs). 
+## 🚀 Project Overview
+The **Digital Observatory Portugal** is a proprietary digital auditing and black-box testing framework engineered from scratch to benchmark and evaluate the technological and operational maturity of Small and Medium Enterprises (SMBs). 
 
-O projeto piloto foi validado com sucesso durante o **BootCamp Alcobaça** (em parceria com a Startup Leiria e a Câmara Municipal de Alcobaça), servindo como uma estratégia inovadora de geração de leads baseada em dados reais de controle de qualidade.
+This pilot project was successfully validated during the **BootCamp Alcobaça** (in partnership with Startup Leiria and the Municipal Chamber), serving as an innovative, data-driven B2B lead generation method based on practical quality assurance metrics.
 
-## 🎯 O Paradoxo da Hospitalidade (Objetivo)
-O estudo foi desenhado para testar e mapear a fricção entre a excelente qualidade do serviço presencial das empresas (com avaliações públicas > 4.0 estrelas) e as falhas críticas encontradas na sua infraestrutura de atendimento digital de ponta a ponta (End-to-End).
+## 🎯 The Hospitality Paradox (Project Goal)
+The study was designed to map the critical friction between the high quality of an SMB's physical/on-site service (public Google ratings > 4.0 stars) and the severe infrastructure failures found within their end-to-end digital customer service channels.
 
-## 🛠️ Metodologia e Escopo Técnico
-A auditoria cobriu uma amostragem rigorosa de **n=25 estabelecimentos locais**, avaliando **+15 pontos críticos** de cobertura através de 5 canais integrados:
-*   **Visibilidade & Descoberta:** Google Business Profile e Rankings de Avaliação.
-*   **Presença Web:** Sites institucionais e conformidade de domínios.
-*   **Canais de Atendimento:** Testes de integração e usabilidade em Redes Sociais, Voz e WhatsApp Business.
+## 🛠️ Methodology & Technical Scope
+The QA market research covered a rigorous sampling of **n=25 local businesses** in the food and beverage sector, evaluating **+15 critical testing points** across 5 integrated channels:
+*   **Visibility & Discovery:** Google Business Profile mapping and public star-rating benchmarks.
+*   **Web Presence:** Institutional website functionality and domain compliance.
+*   **Communication Channels:** Usability and integration testing across Social Media, Voice, and WhatsApp Business.
 
-### 🧪 Métricas de Qualidade e Resultados Obtidos
-Os testes exploratórios e de cliente oculto revelaram dados alarmantes sobre os processos de atendimento:
-*   **Taxa de Latência Crítica:** **92%** das empresas avaliadas apresentaram falhas graves de tempo de resposta no WhatsApp, deixando utilizadores em silêncio por períodos superiores a 60 minutos.
-*   **Triagem de Severidade:** Classificação detalhada do nível de vulnerabilidade (Alto, Médio, Baixo) dos canais, gerando regras de negócio cruciais para a evolução de assistentes inteligentes de IA.
+### 🧪 Quality Metrics & Key Findings
+Exploratory and mystery shopping testing revealed critical workflow and performance defects:
+*   **Critical Latency Rate:** **92%** of the audited businesses failed their WhatsApp response SLA, leaving digital users in complete silence for periods exceeding 60 minutes.
+*   **Severity Triage:** System defects were categorized by risk levels (High, Medium, Low), providing valuable business rules to optimize and train automated AI conversational agents.
 
-## 📊 Visualização dos Dados 
-Os dados, fichas de testes e o processamento estatístico desta amostragem foram consolidados num painel interativo:
-📌 **Aceda ao Dashboard Analítico:** [https://clay-market-pulse-view.base44.app/]
+## 📊 Live Analytics Dashboard
+All raw test data, individual evaluation sheets, and statistical processing from this sampling have been consolidated into an interactive web interface:
+📌 **Access the Dashboard here: [https://clay-market-pulse-view.base44.app/]
 
-## 📬 Conecte-se comigo!
+## 📬 Connect with me!
 *   **LinkedIn:** [[linkedin.com/in/iandra-morais](https://www.linkedin.com/in/iandra-morais/)]
 *   **GitHub:** [[github.com/iandramorais-qa]](https://github.com/iandramorais-qa)
 *    **Email:** [iandramorais.gaia@gmail.com]
